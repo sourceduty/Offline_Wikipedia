@@ -16,6 +16,8 @@ At roughly 100 GB in size, Wikipedia can be downloaded using a BitTorrent client
 
 [Database Torrent Link](https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_maxi_2023-11.zim.torrent)
 
+![Torrent](https://github.com/sourceduty/Offline_Wikipedia/assets/123030236/96c4f931-7185-43d9-a76a-cca0146932a3)
+
 #
 ### Off-grid Computer
 
